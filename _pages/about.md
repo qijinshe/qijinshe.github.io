@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About Me
-
 My name is Qijin She (佘奇晋). I'm the last-year postgraduate student at National University of Defense Technology (NUDT), under the supervison of Prof. [Kai Xu](https://kevinkaixu.net/).
 Before that, I obtained my B.Eng. degree in software engineering from Shandong University in 2015, advised by Prof. Weiguo Liu.
 
