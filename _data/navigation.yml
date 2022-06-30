@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - tilte: "nimo"
+    url: /nimo-markdown-cv/
     
   # - title: "Guide"
   #   url: /markdown/
