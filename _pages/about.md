@@ -20,14 +20,14 @@ My research interest lies in learning methods (especially, reinforcement learnin
 ## Publications
 
 - **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
-**Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. _SIGGRAPH 2022_  
+**Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. _SIGGRAPH 2022._  
 [[Paper](https://arxiv.org/pdf/2204.13998.pdf)]
 [[Code](https://github.com/qijinshe/IBS-Grasping)]
 
 
 
 - **Online 3D bin packing with constrained deep reinforcement learning**<br>
-Hang Zhao*, **Qijin She\***, Chenyang Zhu, [Ying Yang](), Kai Xu. _AAAI 2021_  
+Hang Zhao*, **Qijin She\***, [Chenyang Zhu](http://www.zhuchenyang.net/), [Ying Yang](https://yangzzzy.github.io/), Kai Xu. _AAAI 2021._  
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 \[[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 
