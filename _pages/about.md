@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 My name is Qijin She (佘奇晋). I'm the last-year postgraduate student at National University of Defense Technology (NUDT), under the supervison of Prof. [Kai Xu](https://kevinkaixu.net/).
-Before that, I obtained my B.Eng. degree in software engineering from Shandong University in 2015, advised by Prof. Weiguo Liu.
+Before that, I obtained my B.Eng. degree in software engineering from Shandong University in 2015, advised by Prof. [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/en/lwcg/608651/list/4.htm).
 
 I interned at Visual Computing Research Center (VCC), Shenzhen University, mentored by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang) from Mar. 2021 to Mar. 2022. 
 
@@ -31,6 +31,10 @@ Hang Zhao*, **Qijin She\***, [Chenyang Zhu](http://www.zhuchenyang.net/), [Ying 
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 \[[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 
+
+## Services
+Journal:
+* Computational Visual Media
 
 
 
