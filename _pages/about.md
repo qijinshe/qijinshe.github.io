@@ -33,7 +33,7 @@ Hang Zhao*, **Qijin She\***, [Chenyang Zhu](http://www.zhuchenyang.net/), [Ying 
 
 
 ## Services
-Journal:
+Reviewer:
 * Computational Visual Media
 
 
