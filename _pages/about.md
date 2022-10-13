@@ -18,7 +18,7 @@ My research interests are in reinforcement learning, computer graphics and robot
 
 
 ## Publications
-<img style="float: left;" src="/images/pubs/aaai21.png" width="150">
+<img style="float: left;" src="/images/pubs/sig22.gif" width="150">
 
 **Learning High-DOF Reaching-and-Grasping via Dynamic Representation of Gripper-Object Interaction** <br>
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. _SIGGRAPH 2022._  
@@ -26,8 +26,7 @@ My research interests are in reinforcement learning, computer graphics and robot
 [[Code](https://github.com/qijinshe/IBS-Grasping)]
 
 <br>
-
-<img style="float: left;" src="/images/pubs/sig22.gif" width="150">
+<img style="float: left;" src="/images/pubs/aaai21.png" width="150">
 
 **Online 3D bin packing with constrained deep reinforcement learning**<br>
 Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. _AAAI 2021._  
