@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Qijin She (佘奇晋). I'm the last-year postgraduate student at National University of Defense Technology (NUDT), under the supervison of Prof. [Kai Xu](https://kevinkaixu.net/).
-Before that, I obtained my B.Eng. degree in software engineering from Shandong University in 2015, advised by Prof. [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/en/lwcg/608651/list/4.htm).
 
-I interned at Visual Computing Research Center (VCC), Shenzhen University, mentored by Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang) from Mar. 2021 to Mar. 2022. 
+## Biography
+My name is Qijin She (佘奇晋). I'm a master student at National University of Defense Technology (NUDT), under the supervison of Prof. [Kai Xu](https://kevinkaixu.net/).
+I also work closely with Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang).
+I obtained my B.Eng. degree in Software Engineering from Shandong University in 2015, advised by Prof. [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/en/lwcg/608651/list/4.htm). 
 
-My research interest lies in learning methods (especially, reinforcement learning) for robotic manipulation and interaction animation generataion.
 
-
+My research interests are in reinforcement learning, computer graphics, robotics, focusing on applying learning methods to robotic manipulation problems as well as animation generation.
 
 
 ## Publications
@@ -25,16 +25,14 @@ My research interest lies in learning methods (especially, reinforcement learnin
 [[Code](https://github.com/qijinshe/IBS-Grasping)]
 
 
-
 - **Online 3D bin packing with constrained deep reinforcement learning**<br>
-Hang Zhao*, **Qijin She\***, [Chenyang Zhu](http://www.zhuchenyang.net/), [Ying Yang](https://yangzzzy.github.io/), Kai Xu. _AAAI 2021._  
+Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. _AAAI 2021._  
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
-\[[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
+[[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 
 
 ## Services
-Reviewer:
-* Computational Visual Media
+Reviewer: Computational Visual Media
 
 
 
