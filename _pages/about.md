@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Biography
 
-My name is Qijin She (佘奇晋). I'm a master student at National University of Defense Technology (NUDT), under the supervison of Prof. [Kai Xu](https://kevinkaixu.net/).
+My name is Qijin She (佘奇晋). I'm a master student at National University of Defense Technology, under the supervison of Prof. [Kai Xu](https://kevinkaixu.net/).
 I also work closely with Prof. [Chenyang Zhu](http://www.zhuchenyang.net/), Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang).
 I obtained my B.Eng. degree in Software Engineering from Shandong University, advised by Prof. [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/en/lwcg/608651/list/4.htm). 
 
