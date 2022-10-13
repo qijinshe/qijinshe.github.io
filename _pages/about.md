@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Biography"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Biography
 
 My name is Qijin She (佘奇晋). I'm a master student at National University of Defense Technology, under the supervison of Prof. [Kai Xu](https://kevinkaixu.net/).
 I also work closely with Prof. [Chenyang Zhu](http://www.zhuchenyang.net/), Prof. [Ruizhen Hu](https://csse.szu.edu.cn/staff/ruizhenhu/) and Prof. [Hui Huang](https://vcc.tech/~huihuang).
