@@ -32,7 +32,7 @@ Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. _AAAI 2021._
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
 [[Code](https://github.com/alexfrom0815/Online-3D-BPP-DRL)]
 
-
+<br>
 ## Services
 Reviewer: Computational Visual Media
 
