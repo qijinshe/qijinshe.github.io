@@ -34,7 +34,9 @@ _AAAI 2021._
 
 <br>
 ## Services
-Reviewer: Computational Visual Media
+
+### Journal Reviewer
+* Computational Visual Media
 
 
 
