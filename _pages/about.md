@@ -23,6 +23,7 @@ My research interests are in reinforcement learning, computer graphics and robot
 **Qijin She\***, Ruizhen Hu*, Juzhan Xu, Min Liu, Kai Xu, Hui Huang. <br>
  _SIGGRAPH 2022._  
 [[Paper](https://arxiv.org/pdf/2204.13998.pdf)]
+[[Project Page](https://kevinkaixu.net/projects/ibsgrasp.html)]
 [[Code](https://github.com/qijinshe/IBS-Grasping)]
 
 <br>
