@@ -29,7 +29,7 @@ My research interests are in reinforcement learning, computer graphics and robot
 <br>
 <img style="float: left;" src="/images/pubs/aaai21.png" width="180">
 
-**Online 3D bin packing with constrained deep reinforcement learning**<br>
+**Online 3D Bin Packing with Constrained Deep Reinforcement Learning**<br>
 Hang Zhao*, **Qijin She\***, Chenyang Zhu, Ying Yang, Kai Xu. <br>
 _AAAI 2021._  
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16155/15962)]
